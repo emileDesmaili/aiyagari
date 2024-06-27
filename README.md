@@ -1,2 +1,2 @@
 # aiyagari
-Aiyagari Agent model
+Aiyagari Agent model coded in python with backward induction.
